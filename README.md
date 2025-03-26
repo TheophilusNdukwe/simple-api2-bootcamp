@@ -7,3 +7,6 @@
 Take a look, feel free to use this.
 
 The API data isnt the cleanest but it was a fun side project to work on.
+
+DOCUMENTATION HERE:
+https://public.opendatasoft.com/explore/dataset/global-shark-attack
